@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{ED657BBF-62FE-846A-6B88-452269759375}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI/Logic/GetWeather.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UI/View/VideoPlayerView.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Installer/WorldInstaller.cs" Line="13" Column="30" />
+      <File FileName="Assets/Scripts/Installer/UIInstaller.cs" Line="9" Column="38" />
+      <File FileName="Assets/Scripts/World/OilPump.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Tags/WorldTag.cs" Line="3" Column="22" />
+      <File FileName="Assets/Scripts/Tags/CanvasTag.cs" Line="3" Column="16" />
+      <File FileName="Assets/Scripts/UI/View/ButtonsView.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI/View/DataView.cs" Line="15" Column="30" />
+      <File FileName="Assets/Scripts/UI/Logic/WebViewController.cs" Line="4" Column="14" />
+      <File FileName="Assets/Scripts/UI/View/WeatherView.cs" Line="19" Column="55" />
+      <File FileName="Assets/Scripts/UI/Logic/GetWeather.cs" Line="28" Column="88" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NNKTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="26193ecc-b7a6-449e-be01-9e9290261068" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
